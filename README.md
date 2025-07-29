@@ -1,4 +1,4 @@
-📺 ## Netflix_Movies_and_TV_Shows_Data_Analysis
+# Netflix_Movies_and_TV_Shows_Data_Analysis
 
 
 This project explores and visualizes trends in Netflix content using Python. It covers cleaning and analyzing a dataset of movies and TV shows to uncover patterns in content types, release years, ratings, countries, genres, and more.
